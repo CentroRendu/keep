@@ -1,0 +1,326 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201711 will be lost/reset.
+# Last config file used to build this data file was /home/cro/tmp/awstats/awstats.cro.greenrivertech.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2698                
+POS_VISITOR 6695                
+POS_DAY 7591                
+POS_DOMAIN 3311                
+POS_LOGIN 3558                
+POS_ROBOT 3713                
+POS_WORMS 3879                
+POS_EMAILSENDER 4010                
+POS_EMAILRECEIVER 4153                
+POS_SESSION 7894                
+POS_SIDER 8100                
+POS_FILETYPES 4288                
+POS_DOWNLOADS 4524                
+POS_OS 4572                
+POS_BROWSER 4697                
+POS_SCREENSIZE 4875                
+POS_UNKNOWNREFERER 4949                
+POS_UNKNOWNREFERERBROWSER 5250                
+POS_ORIGIN 5399                
+POS_SEREFERRALS 5537                
+POS_PAGEREFS 5681                
+POS_SEARCHWORDS 5829                
+POS_KEYWORDS 5981                
+POS_MISC 2361                
+POS_ERRORS 6040                
+POS_CLUSTER 3414                
+POS_SIDER_404 6163                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171113201913 347 114843 18555073108597
+FirstTime 20171101104715
+LastTime 20171113201913
+LastUpdate 20171114064308 347 0 347 0 0
+TotalVisits 45                  
+TotalUnique 17                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 17                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 30 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 70 70 6567 0 0 0
+1 8 8 784 0 0 0
+2 32 32 2842 0 0 0
+3 6 6 588 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 2 2 63738 0 1 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 67 105 3869566 9 13 232043
+14 123 144 4509715 4 6 945
+15 2 2 331 0 0 0
+16 28 34 1147568 8 8 54564
+17 4 4 294 0 0 0
+18 31 31 2940 0 0 0
+19 179 257 6819334 15 21 2334
+20 362 497 13753939 16 22 41486
+21 341 371 7523244 27 41 954
+22 158 209 8079494 9 14 62429
+23 109 120 860543 4 5 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+us 1517 1887 46330755
+ca 5 5 310732
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+googlebot 1 1873 20171113201732 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+woff 17 34924 0 0
+html 165 10773241 0 0
+jpg 32 4135218 0 0
+js 190 3980208 0 0
+gif 24 192616 0 0
+svg 8 20617 0 0
+php 1340 21124509 0 0
+png 23 3994792 0 0
+css 93 2385362 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+Unknown 44 44
+winnt 1721 1424
+ios_iphone 22 7
+macosx 105 47
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+chrome61.0.3163.100 1465 1231
+Unknown 42 42
+safari 5 5
+netscape5.0 1 1
+chrome62.0.3202.89 256 193
+mozilla 1 1
+safari11.0 122 49
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_Embedly/0.2;__http://support.embed.ly/) 20171102193534
+WordPress/4.8.3;_http://cro.greenrivertech.net/keep 20171113201806
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com) 20171113201725
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WordPress/4.8.3;_http://cro.greenrivertech.net/keep 20171113201806
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 49 49
+From1 0 0
+From2 0 0
+From3 0 0
+From4 1473 1843
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+301 20 5409
+404 8 117556
+302 68 0
+206 4 269917
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 5
+/keep/wp-login 1 -
+/wp-admin 1 -
+/keep/index.php/about-kent-education-and-equity-partnership-keep/ 1 http://cro.greenrivertech.net/keep/wp-admin/post.php
+/view/css/style.css 4 http://cro.greenrivertech.net/
+/robots.txt 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 17
+209.210.190.37 554 627 10593085 20171105004317
+173.132.150.92 303 316 6007159 20171104010328
+63.144.236.38 188 235 7291950 20171113165818
+73.239.159.48 158 281 10659984 20171113201913 20171113194446 /keep/wp-admin/admin-ajax.php
+184.217.14.17 64 64 6430 20171105220230
+192.185.191.66 42 42 0 20171113201806 20171113194447 /keep/wp-cron.php
+134.39.101.32 38 50 2248896 20171109194737
+184.217.88.238 37 37 3529 20171106001810
+98.237.227.54 36 104 6234238 20171103220409
+174.21.87.180 36 36 3761 20171105031008
+63.255.137.51 30 30 2940 20171105011644
+184.217.96.91 23 41 2234899 20171110142150
+47.157.77.182 5 5 310732 20171103214947
+168.156.136.32 5 21 975810 20171107203533
+54.204.20.249 1 1 2463 20171102193534
+67.51.59.162 1 1 63738 20171101104715
+70.39.246.37 1 1 1873 20171113201725 20171113201725 /keep/index.php/feed/
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20171101 2 2 63738 2
+20171102 40 52 2248333 3
+20171103 709 863 23125871 6
+20171104 203 203 19282 9
+20171105 169 169 15838 10
+20171106 10 10 883 1
+20171107 164 221 6783505 4
+20171109 1 1 3026 1
+20171110 33 51 2571586 4
+20171113 191 320 11809425 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 8
+5mn-15mn 1
+0s-30s 14
+2mn-5mn 2
+30s-2mn 1
+1h+ 8
+15mn-30mn 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 39
+/keep/wp-admin/admin-ajax.php 1035 362653 11 13
+/keep/ 77 5266542 8 5
+/keep/wp-admin/load-scripts.php 59 4239169 0 0
+/keep/wp-cron.php 42 0 20 19
+/keep/wp-admin/nav-menus.php 40 4575283 0 1
+/keep/wp-admin/edit.php 28 1938083 0 0
+/keep/wp-login.php 27 77345 1 1
+/keep/wp-admin/post.php 25 3177447 0 0
+/keep/wp-admin/load-styles.php 20 1403904 0 1
+/keep/index.php/about-us/ 18 1153593 0 0
+/keep/index.php/resources/ 17 1046947 0 1
+/keep/index.php/about-kent-education-and-equity-partnership-keep/ 12 755695 0 0
+/keep/index.php/contact-us/ 9 495839 0 0
+/keep/wp-admin/post-new.php 9 1184602 0 0
+/keep/wp-admin/upload.php 9 530392 0 0
+/keep/wp-content/plugins/wpforms-lite/assets/fonts/wpforms-menu.woff 8 8384 0 0
+/keep/wp-content/plugins/feed-them-social/admin/css/fonts/SlickRemix.woff 8 9056 0 0
+/keep/index.php/home/ 7 453193 0 0
+/keep/index.php/sponsors/ 6 382353 0 0
+/keep/wp-admin/ 5 309265 1 0
+/keep/wp-admin/theme-editor.php 5 389073 0 0
+/keep/wp-admin/user-edit.php 5 221852 0 0
+/keep/events/ 5 500056 0 0
+/keep/wp-admin/plugins.php 5 297469 0 0
+/keep/wp-admin/async-upload.php 5 2339 0 0
+/keep/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 17484 0 0
+/keep/wp-admin/index.php 2 123980 0 0
+/keep/wp-admin/about.php 4 165328 0 0
+/keep/index.php/events/ 4 395781 0 0
+/keep/wp-admin/update-core.php 2 78310 1 0
+/keep/index.php/feed/ 1 1873 1 0
+/keep/wp-admin/media-new.php 2 67050 0 0
+/keep/wp-admin/themes.php 2 106004 0 0
+/keep/wp-admin/plugin-install.php 1 77004 0 0
+/keep/wp-admin/plugin-editor.php 1 44593 0 0
+/keep/wp-admin/customize.php 4 1127370 0 0
+/ 4 12104 2 1
+/keep/wp-includes/js/tinymce/wp-tinymce.php 4 801352 0 0
+/keep/wp-admin/users.php 4 133907 0 0
+END_SIDER

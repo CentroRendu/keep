@@ -1,0 +1,47 @@
+Return-Path: <cro@tata.websitewelcome.com>
+Delivered-To: cro@tata.websitewelcome.com
+Received: from tata.websitewelcome.com
+	by tata.websitewelcome.com (Dovecot) with LMTP id EYUALl+Q9Vnl6wMAYkgevA
+	for <cro@tata.websitewelcome.com>; Sun, 29 Oct 2017 03:25:03 -0500
+Return-path: <cro@tata.websitewelcome.com>
+Envelope-to: cro@tata.websitewelcome.com
+Delivery-date: Sun, 29 Oct 2017 03:25:03 -0500
+Received: from cro by tata.websitewelcome.com with local (Exim 4.87)
+	(envelope-from <cro@tata.websitewelcome.com>)
+	id 1e8itz-0015zH-MF
+	for cro@tata.websitewelcome.com; Sun, 29 Oct 2017 03:25:03 -0500
+From: cro@tata.websitewelcome.com (Cron Daemon)
+To: cro@tata.websitewelcome.com
+Subject: Cron <cro@tata> /usr/local/bin/perl /usr/local/cpanel/3rdparty/quickinstall/scripts/checkupdates.pl
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+Precedence: bulk
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/home/cro>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=cro>
+X-Cron-Env: <USER=cro>
+Message-Id: <E1e8itz-0015zH-MF@tata.websitewelcome.com>
+Date: Sun, 29 Oct 2017 03:25:03 -0500
+
+Bareword found where operator expected at /usr/local/cpanel/Cpanel/JS/Variations.pm line 20, near "$filename =~ s{/js2"
+  (Might be a runaway multi-line // string starting on line 19)
+	(Missing operator before js2?)
+syntax error at /usr/local/cpanel/Cpanel/JS/Variations.pm line 20, near "$filename =~ s{/js2"
+Global symbol "$filename" requires explicit package name at /usr/local/cpanel/Cpanel/JS/Variations.pm line 21.
+Global symbol "$replace_extension" requires explicit package name at /usr/local/cpanel/Cpanel/JS/Variations.pm line 21.
+Global symbol "$filename" requires explicit package name at /usr/local/cpanel/Cpanel/JS/Variations.pm line 22.
+Unmatched right curly bracket at /usr/local/cpanel/Cpanel/JS/Variations.pm line 23, at end of line
+syntax error at /usr/local/cpanel/Cpanel/JS/Variations.pm line 23, near "}"
+Compilation failed in require at /usr/local/cpanel/Cpanel/Locale.pm line 19.
+BEGIN failed--compilation aborted at /usr/local/cpanel/Cpanel/Locale.pm line 19.
+Compilation failed in require at /usr/local/cpanel/Cpanel/Email/Accounts.pm line 25.
+BEGIN failed--compilation aborted at /usr/local/cpanel/Cpanel/Email/Accounts.pm line 25.
+Compilation failed in require at /usr/local/cpanel/Cpanel/ContactInfo/Sync.pm line 16.
+BEGIN failed--compilation aborted at /usr/local/cpanel/Cpanel/ContactInfo/Sync.pm line 16.
+Compilation failed in require at /usr/local/cpanel/Cpanel/ContactInfo.pm line 16.
+BEGIN failed--compilation aborted at /usr/local/cpanel/Cpanel/ContactInfo.pm line 16.
+Compilation failed in require at /usr/local/cpanel/Cpanel/QuickInstall.pm line 25.
+BEGIN failed--compilation aborted at /usr/local/cpanel/Cpanel/QuickInstall.pm line 25.
+Compilation failed in require at /usr/local/cpanel/3rdparty/quickinstall/scripts/checkupdates.pl line 8.
+BEGIN failed--compilation aborted at /usr/local/cpanel/3rdparty/quickinstall/scripts/checkupdates.pl line 8.

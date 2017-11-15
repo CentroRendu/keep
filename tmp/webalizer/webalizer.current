@@ -1,0 +1,696 @@
+# Webalizer V2.23-05 Incremental Data - 11/13/2017 20:19:13
+2017 11 13 20 19 13
+2023 1923 20 203 39 10 47036242 198 18 0
+6 218 352 1 13
+3 3 63738 2 1 1
+67 54 2249784 4 12 3
+930 882 23228316 5 97 5
+203 203 19282 5 0 0
+169 169 15838 6 0 0
+10 10 883 1 0 0
+238 224 7016178 3 22 2
+0 0 0 0 0 0
+2 1 3270 1 1 1
+54 52 2572216 3 32 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+347 325 11866737 6 33 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+70 70 6567 0
+8 8 784 0
+32 32 2842 0
+6 6 588 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+3 3 63738 1
+0 0 0 0
+0 0 0 0
+118 107 4101609 21
+150 146 4510660 27
+2 2 331 0
+42 34 1202132 6
+4 4 294 0
+31 31 2940 0
+278 260 6821668 19
+519 501 13795425 38
+412 385 7524198 53
+223 213 8141923 29
+125 121 860543 4
+0
+0
+0
+1923
+0
+0
+0
+0
+0
+4
+0
+20
+68
+0
+0
+0
+0
+0
+0
+0
+0
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/keep/wp-admin/load-scripts.php
+0 59 0 4239169 0 0
+/keep/wp-content/uploads/2017/10/people-2595510_1920-1024x683.jpg
+0 1 0 47747 0 0
+/keep/wp-includes/js/mediaelement/mediaelementplayer.min.css
+0 4 0 81724 0 0
+/keep/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff
+0 1 0 17484 0 0
+/keep/wp-admin/js/widgets/media-image-widget.min.js
+0 2 0 3232 0 0
+/keep/wp-admin/plugin-install.php
+0 1 12345040 77004 0 0
+/keep/wp-admin/edit.php
+0 28 0 1938083 0 0
+/keep/wp-content/uploads/2017/10/indian-1158809_1920.jpg
+0 4 0 1427904 0 0
+/keep/wp-content/uploads/2017/11/keep_landing_img.jpg
+0 2 0 85092 0 0
+/keep/wp-includes/js/plupload/wp-plupload.min.js
+0 1 12357648 4920 0 0
+/keep/wp-content/plugins/the-events-calendar/common/vendor/tribe-select2/select2.css
+0 1 12345984 19223 0 0
+/keep/wp-admin/js/media-upload.min.js
+0 1 12359456 1153 0 0
+/keep/wp-content/plugins/the-events-calendar/vendor/bootstrap-datepicker/css/bootstrap-datepicker.standalone.min.css
+0 1 12353104 16452 0 0
+/keep/wp-content/plugins/the-events-calendar/common/src/resources/css/bumpdown.min.css
+0 1 12346160 1084 0 0
+/keep/wp-includes/js/tinymce/skins/lightgray/skin.min.css
+0 3 0 118212 0 0
+/keep/wp-content/plugins/the-events-calendar/common/src/resources/js/dependency.min.js
+0 1 12348896 3673 0 0
+/keep/wp-includes/js/mediaelement/controls.svg
+0 1 0 10344 0 0
+/keep/wp-includes/js/thickbox/thickbox.js
+0 1 12359312 13163 0 0
+/keep/wp-includes/js/wp-a11y.min.js
+0 3 0 1959 0 0
+/keep/wp-content/uploads/2017/10/people-2595510_1920-150x150.jpg
+0 1 0 4383 0 0
+/keep/wp-admin/nav-menus.php
+0 40 0 4575283 0 0
+/keep/wp-includes/js/media-views.min.js
+0 1 12358080 104963 0 0
+/keep/wp-includes/js/jquery/jquery-migrate.min.js
+0 7 18446744073709551615 70392 0 0
+/keep/wp-admin/post-new.php
+0 9 0 1184602 0 0
+/keep/wp-content/themes/twentyseventeen/style.css
+0 7 0 578088 0 0
+/keep/wp-content/themes/twentyseventeen/assets/js/customize-preview.js
+0 2 0 8960 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/images/tribe-theme/tribe-theme-tooltips.png
+0 1 12360128 329 0 0
+/keep/wp-content/plugins/the-events-calendar/common/src/resources/js/bumpdown.min.js
+0 1 12351696 4237 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/css/events-admin.css
+0 1 12346880 9974 0 0
+/keep/wp-includes/images/spinner.gif
+0 2 128 8324 0 0
+/keep/wp-content/uploads/2017/11/gates_small-150x150.png
+0 1 140664658430976 17560 0 0
+/keep/wp-admin/js/widgets/media-widgets.min.js
+0 2 0 26448 0 0
+/keep/wp-includes/js/imgareaselect/imgareaselect.css
+0 4 0 3160 0 0
+/keep/wp-content/plugins/the-events-calendar/common/vendor/attrchange/js/attrchange.js
+0 1 12352400 4432 0 0
+/keep/wp-includes/js/tinymce/skins/wordpress/wp-content.css
+0 3 0 26754 0 0
+/keep/wp-content/plugins/the-events-calendar/common/src/resources/css/tribe-common-admin.min.css
+0 1 12346336 21281 0 0
+/keep/wp-content/plugins/the-events-calendar/common/src/resources/js/timepicker.min.js
+0 1 12352928 1444 0 0
+/keep/wp-content/plugins/the-events-calendar/common/src/resources/css/validation.min.css
+0 1 12345408 1148 0 0
+/keep/wp-includes/js/thickbox/thickbox.css
+0 7 0 18585 0 0
+/keep/wp-content/themes/twentyseventeen/assets/js/navigation.js
+0 7 0 26278 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/css/events-admin.min.css
+0 1 12347632 7630 0 0
+/keep/wp-content/plugins/the-events-calendar/common/vendor/tribe-select2/select2.png
+0 1 12356576 613 0 0
+/keep/wp-includes/js/tinymce/wp-tinymce.php
+0 4 0 801352 0 0
+/keep/wp-content/uploads/2017/11/Gates_logo_1200x1200-300x300.jpg
+0 1 0 8030 0 0
+/keep/wp-login.php
+0 27 0 77345 0 0
+/keep/wp-content/plugins/feed-them-social/admin/css/admin.css
+0 7 0 13643 0 0
+/keep/wp-content/plugins/feed-them-social/admin/css/fonts/SlickRemix.woff
+0 8 0 9056 0 0
+/keep/wp-content/plugins/the-events-calendar/common/vendor/jquery-tribe-timepicker/jquery.timepicker.css
+0 1 12347056 1584 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events-ajax-calendar.min.js
+0 1 12354928 7474 0 0
+/keep/wp-content/plugins/the-events-calendar/common/vendor/clipboard/clipboard.min.js
+0 1 12347808 10111 0 0
+/keep/wp-admin/images/spinner.gif
+0 3 0 12486 0 0
+/keep/wp-includes/js/wp-embed.min.js
+0 7 0 9786 0 0
+/keep/wp-content/uploads/2017/11/keep_landing_img-150x150.jpg
+0 1 0 8280 0 0
+/keep/wp-includes/js/customize-selective-refresh.min.js
+0 2 0 21496 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events.min.js
+0 1 12354576 18681 0 0
+/keep/wp-content/plugins/the-events-calendar/common/src/resources/css/dependency.min.css
+0 1 12345792 333 0 0
+/keep/wp-admin/images/spinner-2x.gif
+0 4 0 34144 0 0
+/keep/wp-includes/js/mediaelement/loading.gif
+0 1 0 6224 0 0
+/keep/wp-admin/plugins.php
+0 5 12344912 297469 0 0
+/keep/wp-includes/js/shortcode.min.js
+0 1 12357120 2577 0 0
+/keep/wp-content/themes/twentysixteen/screenshot.png
+0 3 0 1390665 0 0
+/keep/wp-content/uploads/2017/11/keep_landing_img-300x249.jpg
+0 3 0 67806 0 0
+/favicon.ico
+0 30 0 0 0 0
+/keep/
+0 152 0 9953689 8 3
+/keep/wp-content/uploads/2017/10/indian-1158809_1920-300x200.jpg
+0 2 0 30406 0 0
+/keep/wp-includes/js/media-audiovideo.min.js
+0 1 12358208 12883 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/images/tribe-loading.gif
+0 1 12355120 4697 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/js/event-editor.min.js
+0 1 12352752 361 0 0
+/keep/wp-admin/js/editor.min.js
+0 3 0 24747 0 0
+/keep/wp-admin/images/w-logo-white.png
+0 1 0 5395 0 0
+/keep/wp-content/plugins/the-events-calendar/common/src/resources/js/buttonset.min.js
+0 1 12348720 1320 0 0
+/keep/events/
+0 5 12356304 500056 0 0
+/keep/wp-content/uploads/2017/10/indian-1158809_1920-1024x683.jpg
+0 1 0 115236 0 0
+/keep/wp-content/uploads/2017/10/people-2595510_1920.jpg
+0 7 0 1456225 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/js/events-admin.min.js
+0 1 12352576 12639 0 0
+/keep/wp-includes/js/wp-backbone.min.js
+0 1 12357520 3020 0 0
+/keep/wp-includes/js/mediaelement/wp-mediaelement.min.js
+0 3 0 2385 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/js/aggregator-admin-legacy-settings.min.js
+0 1 12349616 781 0 0
+/keep/wp-admin/images/resize-2x.gif
+0 1 12331360 234 0 0
+/keep/wp-content/uploads/2017/10/flowers-2562079_1920-300x169.jpg
+0 2 0 21144 0 0
+/keep/wp-content/uploads/2017/10/people-2595510_1920-300x200.jpg
+0 2 0 16502 0 0
+/keep/wp-admin/plugin-editor.php
+0 1 12356048 44593 0 0
+/keep/wp-content/themes/twentyseventeen/assets/images/header.jpg
+0 2 0 229708 0 0
+/keep/wp-content/uploads/2017/11/Gates_logo_1200x1200-1024x1024.jpg
+0 1 0 40380 0 0
+/keep/wp-content/plugins/the-events-calendar/common/src/resources/js/validation.min.js
+0 1 12348176 6589 0 0
+/keep/wp-admin/load-styles.php
+0 20 0 1403904 0 0
+/keep/wp-content/themes/twentyseventeen/assets/js/global.js
+0 7 0 53774 0 0
+/keep/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+0 7 0 40852 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full.min.css
+0 1 12353616 46561 0 0
+/keep/wp-admin/images/wordpress-logo-white.svg
+0 1 5897304 1639 0 0
+/keep/wp-content/plugins/the-events-calendar/vendor/bootstrap-datepicker/js/bootstrap-datepicker.min.js
+0 1 12354000 33529 0 0
+/keep/wp-includes/js/jquery/ui/widget.min.js
+0 1 12351408 6908 0 0
+/keep/wp-content/uploads/2017/10/indian-1158809_1920-150x150.jpg
+0 1 498097464301268528 7349 0 0
+/keep/wp-content/plugins/the-events-calendar/vendor/jquery-placeholder/jquery.placeholder.min.js
+0 1 12354384 2161 0 0
+/keep/wp-admin/themes.php
+0 2 3330473695586103854 106004 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/js/jquery-ecp-plugins.min.js
+0 1 12347264 523 0 0
+/keep/wp-content/plugins/the-events-calendar/common/src/resources/js/notice-dismiss.min.js
+0 1 12349424 539 0 0
+/keep/wp-includes/js/jquery/ui/draggable.min.js
+0 1 12350976 18905 0 0
+/keep/wp-includes/js/jquery/ui/mouse.min.js
+0 1 12350688 3148 0 0
+/keep/wp-includes/js/jquery/ui/sortable.min.js
+0 1 12352256 24899 0 0
+/keep/wp-includes/js/zxcvbn.min.js
+0 2 3543826243108876594 1644404 0 0
+/keep/wp-includes/js/wplink.min.js
+0 1 12358896 11305 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/images/events-bar/icon-month.png
+0 1 12355680 123 0 0
+/keep/wp-includes/css/customize-preview.min.css
+0 2 0 10366 0 0
+/keep/wp-includes/js/jquery/ui/resizable.min.js
+0 1 12350832 18426 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme.min.css
+0 1 12353808 8970 0 0
+/keep/wp-includes/js/mediaelement/froogaloop.min.js
+0 2 0 3538 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/js/aggregator-facebook-login.min.js
+0 1 12350000 1065 0 0
+/keep/wp-admin/images/wordpress-logo.svg
+0 5 0 7605 0 0
+/keep/wp-admin/
+0 7 0 433245 0 1
+/keep/wp-content/themes/twentyseventeen/assets/css/colors-dark.css
+0 2 0 35922 0 0
+/keep/wp-includes/js/plupload/plupload.full.min.js
+0 1 12357792 113081 0 0
+/keep/wp-content/themes/twentyseventeen/screenshot.png
+0 2 0 727666 0 0
+/keep/wp-content/uploads/2017/11/gates_small.png
+0 2 0 65384 0 0
+/keep/wp-includes/js/mediaelement/mediaelement-and-player.min.js
+0 3 0 247875 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/js/admin-ignored-events.min.js
+0 1 12349808 1676 0 0
+/keep/wp-admin/customize.php
+0 4 0 1127370 0 0
+/keep/wp-includes/js/jquery/ui/autocomplete.min.js
+0 1 12359168 8283 0 0
+/keep/wp-admin/about.php
+0 4 0 165328 0 0
+/keep/wp-content/plugins/feed-them-social/feeds/js/powered-by.js
+0 7 0 2212 0 0
+/keep/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js
+0 1 0 9887 0 0
+/keep/wp-includes/js/mediaelement/wp-mediaelement.min.css
+0 4 0 16088 0 0
+/keep/wp-includes/js/jquery/ui/datepicker.min.js
+0 1 12350544 36508 0 0
+/keep/wp-includes/js/wp-util.min.js
+0 3 0 3138 0 0
+/keep/wp-includes/js/wp-emoji-release.min.js
+0 10 0 119150 0 0
+/keep/wp-admin/post.php
+0 25 0 3177447 0 0
+/keep/wp-content/plugins/feed-them-social/feeds/js/fts-global.js
+0 7 0 20412 0 0
+/keep/wp-includes/js/customize-preview.min.js
+0 2 0 20346 0 0
+/keep/wp-includes/css/dashicons.min.css
+0 9 0 417276 0 0
+/keep/wp-admin/users.php
+0 4 0 133907 0 0
+/keep/wp-content/plugins/the-events-calendar/common/vendor/tribe-select2/select2.min.js
+0 1 12348544 67331 0 0
+/keep/wp-content/plugins/the-events-calendar/common/src/resources/js/dropdowns.min.js
+0 1 12351872 6720 0 0
+/keep/wp-includes/js/underscore.min.js
+0 2 0 32820 0 0
+/keep/wp-includes/images/uploader-icons.png
+0 2 0 3112 0 0
+/keep/wp-content/themes/twentyseventeen/assets/js/customize-controls.js
+0 2 0 2274 0 0
+/keep/wp-admin/theme-editor.php
+0 5 0 389073 0 0
+/keep/wp-content/uploads/2017/10/flowers-2562079_1920-150x150.jpg
+0 1 0 5223 0 0
+/keep/wp-includes/js/jquery/ui/menu.min.js
+0 1 12359024 9600 0 0
+/keep/wp-admin/images/arrows-2x.png
+0 1 0 863 0 0
+/keep/wp-admin/media-new.php
+0 2 0 67050 0 0
+/keep/wp-includes/css/admin-bar.min.css
+0 6 0 123756 0 0
+/keep/wp-includes/js/media-models.min.js
+0 1 12357376 13705 0 0
+/keep/wp-includes/js/customize-preview-nav-menus.min.js
+0 2 0 10100 0 0
+/keep/wp-cron.php
+0 42 0 0 0 0
+/keep/wp-content/plugins/the-events-calendar/common/src/resources/images/modern-tribe@2x.png
+0 1 12356384 1376 0 0
+/keep/wp-includes/js/jquery/ui/position.min.js
+0 1 12351120 6527 0 0
+/keep/wp-admin/images/resize.gif
+0 2 0 140 0 0
+/keep/wp-includes/js/customize-base.min.js
+0 2 0 15136 0 0
+/keep/wp-admin/user-edit.php
+0 5 0 221852 0 0
+/keep/wp-includes/js/jquery/ui/dialog.min.js
+0 1 12351552 12139 0 0
+/keep/wp-content/plugins/the-events-calendar/common/vendor/jquery-tribe-timepicker/jquery.timepicker.min.js
+0 1 12352048 15317 0 0
+/
+0 4 0 12104 2 0
+/keep/wp-includes/js/jquery/jquery.js
+0 7 0 680288 0 0
+/keep/wp-content/plugins/wpforms-lite/assets/fonts/wpforms-menu.woff
+0 8 0 8384 0 0
+/keep/wp-content/plugins/the-events-calendar/common/src/resources/js/pue-notices.min.js
+0 1 12349248 386 0 0
+/keep/wp-includes/js/mediaelement/controls.png
+0 1 0 1892 0 0
+/keep/wp-content/plugins/the-events-calendar/common/src/resources/css/datepicker.min.css
+0 1 12345600 11161 0 0
+/keep/wp-includes/js/wp-custom-header.min.js
+0 2 0 8924 0 0
+/keep/wp-content/uploads/2017/10/flowers-2562079_1920.jpg
+0 2 0 727256 0 0
+/keep/wp-admin/images/loading.gif
+0 1 0 2254 0 0
+/keep/wp-includes/js/tinymce/skins/lightgray/content.min.css
+0 3 0 10491 0 0
+/keep/wp-content/plugins/the-events-calendar/vendor/jquery-resize/jquery.ba-resize.min.js
+0 1 12354192 1125 0 0
+/keep/wp-content/plugins/feed-them-social/feeds/css/styles.css
+0 6 0 545244 0 0
+/keep/wp-admin/images/wpspin_light.gif
+0 1 12359888 2209 0 0
+/keep/wp-content/plugins/the-events-calendar/common/src/resources/js/utils-camelcase.min.js
+0 1 12348352 801 0 0
+/keep/wp-admin/admin-ajax.php
+0 1035 0 362653 0 0
+/keep/wp-content/themes/twentyseventeen/assets/css/editor-style.css
+0 3 0 27285 0 0
+/keep/wp-admin/update-core.php
+0 2 0 78310 0 0
+/keep/wp-includes/css/editor.min.css
+0 6 0 168612 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme-mobile.min.css
+0 1 12355488 3107 0 0
+/keep/wp-admin/js/widgets/media-video-widget.min.js
+0 2 0 5190 0 0
+/keep/wp-content/uploads/2017/11/Gates_logo_1200x1200.jpg
+0 1 0 75209 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/css/admin-menu.min.css
+0 1 12346704 184 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/js/front-page-setting.min.js
+0 1 12349072 619 0 0
+/keep/wp-includes/js/thickbox/loadingAnimation.gif
+0 8 0 121904 0 0
+/keep/wp-content/uploads/2017/11/gates_small-300x124.png
+0 2 0 48120 0 0
+/keep/wp-admin/js/widgets/text-widgets.min.js
+0 2 0 11338 0 0
+/keep/wp-includes/js/quicktags.min.js
+0 1 12358768 11149 0 0
+/keep/wp-admin/async-upload.php
+0 5 0 2339 0 0
+/keep/wp-content/plugins/the-events-calendar/vendor/php-date-formatter/js/php-date-formatter.min.js
+0 1 12347440 6748 0 0
+/keep/wp-includes/js/mediaelement/bigplay.svg
+0 1 0 1029 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full-mobile.min.css
+0 1 12355296 7804 0 0
+/keep/wp-includes/js/admin-bar.min.js
+0 7 0 50316 0 0
+/keep/wp-includes/js/backbone.min.js
+0 1 12357248 23318 0 0
+/keep/wp-includes/js/mediaelement/bigplay.png
+0 1 0 3001 0 0
+/keep/wp-includes/js/media-editor.min.js
+0 1 12357936 10905 0 0
+/keep/wp-includes/js/jquery/ui/button.min.js
+0 1 12351264 7236 0 0
+/keep/wp-admin/upload.php
+0 9 0 530392 0 0
+/keep/wp-admin/js/widgets/media-audio-widget.min.js
+0 2 0 2880 0 0
+/keep/wp-content/plugins/wpforms-lite/assets/js/admin-editor.js
+0 5 0 7395 0 0
+/keep/wp-content/plugins/the-events-calendar/common/src/resources/css/buttonset.min.css
+0 1 12346528 445 0 0
+/keep/wp-content/uploads/2017/10/people-2595510_1920-768x512.jpg
+0 1 0 31255 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events-bar.min.js
+0 1 12354752 6470 0 0
+/keep/wp-content/plugins/the-events-calendar/common/vendor/momentjs/moment.min.js
+0 1 12350192 51452 0 0
+/keep/wp-content/plugins/the-events-calendar/common/src/resources/js/tribe-common.min.js
+0 1 12347984 2524 0 0
+/keep/wp-content/plugins/the-events-calendar/common/src/resources/js/admin-date-preview.min.js
+0 1 12356928 364 0 0
+/keep/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+0 7 0 4781 0 0
+/keep/wp-content/plugins/the-events-calendar/src/resources/js/events-dynamic.min.js
+0 1 12350368 2967 0 0
+/keep/wp-includes/js/customize-preview-widgets.min.js
+0 2 0 15318 0 0
+/keep/wp-content/plugins/the-events-calendar/vendor/jquery/smoothness/jquery-ui-1.8.23.custom.css
+0 1 12353424 33215 0 0
+/keep/wp-includes/js/mce-view.min.js
+0 1 12358352 9660 0 0
+/keep/wp-content/themes/twentyfifteen/screenshot.png
+0 3 0 1728693 0 0
+/keep/wp-admin/js/image-edit.min.js
+0 1 12358640 9737 0 0
+# End Of Table - urls
+# -sites- (monthly)
+63.144.236.38
+0 260 240 7579187 3 1510592155
+/keep/wp-admin/
+63-255-137-51.ip.mcleodusa.net
+0 30 30 2940 0 0
+-
+173-132-150-92.pools.spcsdns.net
+0 338 322 6069344 1 1509750147
+/keep/
+sales2.sisna.com
+0 660 634 10632462 2 1509744395
+/keep/
+168.156.136.32
+0 22 21 976125 1 1510086933
+/keep/
+c-98-237-227-54.hsd1.wa.comcast.net
+0 115 112 6234806 1 1509746649
+/keep/
+192-185-191-66.unifiedlayer.com
+0 42 42 0 0 0
+-
+c-73-239-159-48.hsd1.wa.comcast.net
+0 298 285 10660623 1 1510604285
+/keep/
+184-217-96-91.pools.spcsdns.net
+0 43 42 2235214 1 1510323710
+/keep/
+184-217-14-17.pools.spcsdns.net
+0 64 64 6430 0 0
+-
+crawl-66-249-65-69.googlebot.com
+0 1 1 1873 1 1510604252
+/keep/
+stadium.silvercloud.com
+0 2 2 63738 1 1509533235
+/keep/
+47.157.77.182
+0 6 5 311047 1 1509745787
+/keep/
+174-21-87-180.tukw.qwest.net
+0 36 36 3761 0 0
+-
+rigby03.embed.ly
+0 1 1 0 0 0
+-
+184-217-88-238.pools.spcsdns.net
+0 37 37 3529 0 0
+-
+134.39.101.32
+0 63 51 2250267 3 1510256857
+/
+crawl-66-249-65-65.googlebot.com
+0 1 0 236 0 0
+-
+rigby02.embed.ly
+0 3 1 2787 1 1509651333
+/keep/wp-admin/
+h.moreover.com
+0 1 1 1873 1 1510604245
+/keep/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+63.144.236.38
+0 41 33 1202132 1 1510592155
+/keep/wp-admin/
+192-185-191-66.unifiedlayer.com
+0 5 5 0 0 0
+-
+c-73-239-159-48.hsd1.wa.comcast.net
+0 298 285 10660623 1 1510604285
+/keep/
+crawl-66-249-65-69.googlebot.com
+0 1 1 1873 1 1510604252
+/keep/
+crawl-66-249-65-65.googlebot.com
+0 1 0 236 0 0
+-
+h.moreover.com
+0 1 1 1873 1 1510604245
+/keep/
+# End Of Table - sites (daily)
+# -referrers- 
+http://cro.greenrivertech.net/keep/wp-cron.php
+0 42
+http://cro.greenrivertech.net/keep/wp-admin/edit.php
+0 144
+http://cro.greenrivertech.net/keep/index.php/resources/
+0 29
+http://cro.greenrivertech.net/keep/wp-admin/update-core.php
+0 14
+http://cro.greenrivertech.net/keep/wp-admin/plugins.php
+0 10
+http://cro.greenrivertech.net/keep/index.php/contact-us/
+0 6
+http://cro.greenrivertech.net/keep/wp-admin/post.php
+0 824
+http://cro.greenrivertech.net/keep/index.php/home/
+0 4
+http://cro.greenrivertech.net/keep/
+0 183
+http://cro.greenrivertech.net/keep/wp-admin/index.php
+0 5
+http://cro.greenrivertech.net/keep/wp-login.php
+0 37
+http://cro.greenrivertech.net/
+0 4
+http://cro.greenrivertech.net/keep/wp-content/plugins/feed-them-social/admin/css/admin.css
+0 7
+http://cro.greenrivertech.net/keep/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-full.min.css
+0 1
+http://cro.greenrivertech.net/keep/wp-includes/js/tinymce/skins/lightgray/skin.min.css
+0 1
+http://cro.greenrivertech.net/wp-admin
+0 1
+http://cro.greenrivertech.net/keep/wp-content/plugins/the-events-calendar/common/vendor/tribe-select2/select2.css
+0 1
+http://cro.greenrivertech.net/keep/index.php/about-kent-education-and-equity-partnership-keep/
+0 3
+http://cro.greenrivertech.net/keep/wp-admin/load-styles.php
+0 17
+- (Direct Request)
+0 83
+http://cro.greenrivertech.net/keep/wp-admin/
+0 78
+http://cro.greenrivertech.net/keep/wp-admin/theme-editor.php
+0 14
+http://cro.greenrivertech.net/keep/wp-admin/customize.php
+0 54
+http://cro.greenrivertech.net/keep/wp-admin/plugin-install.php
+0 6
+http://cro.greenrivertech.net/keep/events/
+0 5
+http://cro.greenrivertech.net/keep/index.php/about-us/
+0 17
+http://cro.greenrivertech.net/keep/wp-admin/plugin-editor.php
+0 3
+http://cro.greenrivertech.net/keep/wp-admin/themes.php
+0 10
+http://cro.greenrivertech.net/keep/wp-admin/nav-menus.php
+0 113
+http://cro.greenrivertech.net/keep/index.php/events/
+0 15
+http://cro.greenrivertech.net/keep/wp-admin/media-new.php
+0 33
+http://cro.greenrivertech.net/keep/wp-admin/user-edit.php
+0 10
+http://cro.greenrivertech.net/keep/wp-admin/upload.php
+0 33
+http://cro.greenrivertech.net/keep/wp-admin/post-new.php
+0 190
+http://cro.greenrivertech.net/keep/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme.min.css
+0 1
+http://cro.greenrivertech.net/keep/index.php/sponsors/
+0 8
+http://cro.greenrivertech.net/keep/wp-admin/users.php
+0 4
+http://cro.greenrivertech.net/keep/wp-admin/about.php
+0 8
+http://cro.greenrivertech.net/keep/wp-includes/js/mediaelement/mediaelementplayer.min.css
+0 5
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_1 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A402 
+0 18
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) GSA/38.0.172903409 Mobile/1
+0 6
+Mozilla/5.0 (compatible; Embedly/0.2; snap; +http://support.embed.ly/)
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 2
+WordPress/4.8.3; http://cro.greenrivertech.net/keep
+0 42
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36
+0 282
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38
+0 113
+Mozilla/5.0 (compatible; Embedly/0.2; +http://support.embed.ly/)
+0 3
+Mozilla/5.0 Moreover/5.1 (+http://www.moreover.com)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 1555
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
